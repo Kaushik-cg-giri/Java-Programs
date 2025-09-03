@@ -1,0 +1,27 @@
+count character in string
+
+1)Initialize String
+2)set count=0
+3)convert string to character array
+4)iterate array
+5)get the repeating character  number stored in count variable
+		count = map.getOrDefault(ch,0)
+	//it will return each character deafult value
+	//if character not present return 0 
+	//if character presnt more than one time the  las value return
+	//any way first time each character default value is 0 as return as count
+	//if a character comes 1 time and stored  it in map 
+		then agin count return as 1
+	
+6)       map.put(ch,count+1)
+	//it will store each character count
+	//if first character default value is 0 it incremented to 1
+	  if that character come agin it value incremented to1+1
+
+   such way we store each character as key and its count as value
+
+		
+
+		
+		
+

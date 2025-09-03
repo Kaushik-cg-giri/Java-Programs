@@ -1,0 +1,8 @@
+1)array contain n natural number
+2)one number missing
+3)find sum of n natural number n*(n+1)/2 expectedOP
+4)find sum elemnts in array actualOP
+5)missing elemnt expectedOP-actualOP=missingElemnt
+6)here issue for finding   sum of actualOP we cannot use forloop or inbuilt method
+		through recuression we can find out sum of n natural number
+

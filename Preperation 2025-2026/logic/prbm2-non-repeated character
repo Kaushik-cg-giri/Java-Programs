@@ -1,0 +1,22 @@
+
+prblm -2
+Write a Java method to find the first non-repeated character in a given string. If all characters are repeated, return '_'.
+
+Input: "swiss"
+Output: 'w'
+
+Input: "aabbcc"
+Output: '_'
+
+
+logic:
+
+step1)convert string to array
+2)iterate array
+3)using getOrDefault() we can get the keys default value
+so set map.getOrDefault(ch,0)+1
+4)Each time  character repeat the inbuilt function increment once
+5)itrate map as Map.Entry<k,v>
+6)check getvalue==1 then return that key
+7)else return '_'
+

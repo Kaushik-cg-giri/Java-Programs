@@ -1,0 +1,16 @@
+frequency of each elemnt
+
+1)initialize array
+2)crate new array with the length of first array
+3)initiale variable count to 1 store frequency of each elemnt
+4)initialize variable k to 0
+5)first take one  elemnt from  array and test how many time it will repeat that achieved through 2 loops
+6)first loop for taking elemnt from array
+7) second loop testing how many time it repeating
+8)if elemnt repeat  check using arr[i] == arr[j]
+9)increase count variable
+10)set arr[j]=-1
+11)outside inner loop store count to new array newArr
+12)increment k
+13)print newArr
+14)if newArr value not -1 it will display

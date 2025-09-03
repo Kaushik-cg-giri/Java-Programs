@@ -1,0 +1,8 @@
+Write a program to find the second largest number in an integer array.
+Input: [12, 35, 1, 10, 34, 1]
+Output: 34
+
+
+1)store 1st value in temp
+2)iterate array
+3)compar arr[i]>temp

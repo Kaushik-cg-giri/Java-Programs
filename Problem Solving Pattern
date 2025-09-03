@@ -1,0 +1,61 @@
+🔹 1. Sliding Window
+
+Used for problems involving arrays/lists, especially for contiguous subarrays.
+
+Example: Find the maximum sum of a subarray of size k.
+
+🔹 2. Two Pointers
+
+Use two pointers (start and end) to scan or compare elements.
+
+Example: Reverse an array, check for a palindrome, or find pairs that sum to a target.
+
+🔹 3. Fast & Slow Pointers (Tortoise and Hare)
+
+One pointer moves faster than the other.
+
+Example: Detect cycles in linked lists.
+
+🔹 4. Divide and Conquer
+
+Break the problem into smaller parts, solve each, and combine them.
+
+Example: Merge Sort, Binary Search.
+
+🔹 5. Recursion & Backtracking
+
+Try all possibilities, and backtrack when needed.
+
+Example: Solving a maze, Sudoku, generating permutations.
+
+🔹 6. Greedy Algorithm
+
+Always pick the best local option, hoping it leads to a global solution.
+
+Example: Coin Change (smallest number of coins).
+
+🔹 7. Dynamic Programming (DP)
+
+Solve subproblems and store their results to avoid re-computation (using memoization or tabulation).
+
+Example: Fibonacci numbers, Knapsack Problem.
+
+🔹 8. Hash Map for Lookup
+
+Use a hash map (dictionary) to quickly store and retrieve information.
+
+Example: Find duplicates, or two-sum problems.
+
+🔹 9. Graph Traversal (BFS / DFS)
+
+For tree or graph problems where you need to explore connections.
+
+Example: Shortest path, Connected components.
+
+🔹 10. Pattern Recognition
+
+Look for symmetry, repeating elements, mathematical patterns.
+
+Example: Finding sequences, series, patterns in strings.
+
+
