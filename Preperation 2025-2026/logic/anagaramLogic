@@ -1,8 +1,0 @@
-Two strings are anagrams if they contain the same characters in the same frequency, but possibly in a different order.
-
-Input: "listen", "silent"      → Output: true  
-Input: "triangle", "integral"  → Output: true  
-Input: "apple", "pale"         → Output: false
-
-step1)check two string length same or not
-2)Addb string character as key in  map
