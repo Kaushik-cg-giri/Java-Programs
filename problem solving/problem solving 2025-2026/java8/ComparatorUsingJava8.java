@@ -7,7 +7,7 @@ public class ComparatorUsingJava8 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("java 8");
+		System.out.println("Edit java 8 through github");
 
 		List<Integer> list =Arrays.asList(45,78,65,85,5,21,7);
 		
