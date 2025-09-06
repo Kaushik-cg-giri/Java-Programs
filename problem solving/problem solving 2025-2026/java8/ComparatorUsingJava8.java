@@ -6,6 +6,8 @@ import java.util.List;
 public class ComparatorUsingJava8 {
 
 	public static void main(String[] args) {
+		
+		System.out.println("java 8");
 
 		List<Integer> list =Arrays.asList(45,78,65,85,5,21,7);
 		
