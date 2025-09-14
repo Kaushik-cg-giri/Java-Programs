@@ -1,4 +1,4 @@
-package refreshment_on_augest;
+package refreshment.august;
 
 public class ReverseString {
 

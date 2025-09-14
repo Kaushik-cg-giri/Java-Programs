@@ -1,4 +1,5 @@
-package refreshment_on_augest;
+package refreshment.august;
+
 // reverse accordoing to words
 //expect o/p : script python java
 public class ReverseWordString {

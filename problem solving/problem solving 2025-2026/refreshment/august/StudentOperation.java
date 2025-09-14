@@ -1,4 +1,4 @@
-package refreshment_on_augest;
+package refreshment.august;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,7 +9,8 @@ public class StudentOperation {
 
 		//Student object contain id,name and list subject details 
 		List<Student> list = Arrays.asList(new Student(101,"Kiran",Arrays.asList(new Subject("Physics",90)))
-							,new Student(102,"Ravi",Arrays.asList(new Subject("English",40),new Subject("Chemistry",80))));
+							,new Student(102,"Ravi",Arrays.asList(new Subject("English",40),new Subject("Chemistry",80)))
+							,new Student(101,"Kiran",Arrays.asList(new Subject("Physics",90))));
 		
 		//list.forEach(System.out::println);
 		

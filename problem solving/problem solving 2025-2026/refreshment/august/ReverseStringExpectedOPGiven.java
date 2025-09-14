@@ -1,4 +1,4 @@
-package refreshment_on_augest;
+package refreshment.august;
 //expected op : ++c nohtyp avaj
 public class ReverseStringExpectedOPGiven {
 

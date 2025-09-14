@@ -1,4 +1,4 @@
-package refreshment_on_augest;
+package refreshment.august;
 
 public class AddingTwoNumber {
 
@@ -10,7 +10,7 @@ public class AddingTwoNumber {
 		
 		for(int i=0;i<arr.length;i++) {
 			
-			for(int j =i; j<arr.length;j++) {
+			for(int j =i+1; j<arr.length;j++) {
 				
 				sum =arr[i]+arr[j];
 				
